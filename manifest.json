@@ -1,0 +1,43 @@
+{
+  "name": "Twitch Unfollow Pro",
+  "description": "The most intuitive and powerful Twitch unfollow tool. Bulk unfollow with confidence using our advanced interface with previews, confirmations, and safety features.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ka1xu",
+    "email": "ka1xu@github.com",
+    "url": "https://github.com/ka1xu"
+  },
+  "permissions": ["scripting", "storage"],
+  "host_permissions": ["https://*.twitch.tv/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "default_title": "Twitch Unfollow Pro - Manage your follows safely",
+    "default_popup": "popup.html"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["script.js", "style.css", "components/*"],
+      "matches": ["https://*.twitch.tv/*"]
+    }
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://*.twitch.tv/*"],
+      "js": ["script.js"],
+      "css": ["style.css"]
+    }
+  ],
+  "manifest_version": 3
+}

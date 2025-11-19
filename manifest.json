@@ -3,9 +3,9 @@
   "description": "The most intuitive and powerful Twitch unfollow tool. Bulk unfollow with confidence using our advanced interface with previews, confirmations, and safety features.",
   "version": "1.0.0",
   "author": {
-    "name": "ka1xu",
-    "email": "ka1xu@github.com",
-    "url": "https://github.com/ka1xu"
+    "name": "jiroaku",
+    "email": "jiroaku@github.com",
+    "url": "https://github.com/jiroaku"
   },
   "permissions": ["scripting", "storage"],
   "host_permissions": ["https://*.twitch.tv/*"],

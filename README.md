@@ -7,9 +7,9 @@
 > **The most intuitive and powerful Twitch unfollow tool** - Bulk unfollow with confidence using our advanced interface with previews, confirmations, and safety features.
 
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/ka1xu/twitch-unfollow-pro)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/jiroaku/twitch-unfollow-pro)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/ka1xu)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/jiroaku)
 
 *A professional Chrome extension for managing your Twitch follows safely and efficiently*
 
@@ -141,7 +141,7 @@ The extension tracks:
 ### Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/ka1xu/twitch-unfollow-pro.git
+git clone https://github.com/jiroaku/twitch-unfollow-pro.git
 cd twitch-unfollow-pro
 
 # Load in Chrome
@@ -170,7 +170,7 @@ twitch-unfollow-pro/
 We welcome contributions! Here's how you can help:
 
 ### Reporting Issues
-- Use the [GitHub Issues](https://github.com/ka1xu/twitch-unfollow-pro/issues) page
+- Use the [GitHub Issues](https://github.com/jiroaku/twitch-unfollow-pro/issues) page
 - Provide detailed information about the problem
 - Include steps to reproduce the issue
 
@@ -199,7 +199,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Need help? Here's how to get support:
 
-- **GitHub Issues**: [Create an issue](https://github.com/ka1xu/twitch-unfollow-pro/issues)
+- **GitHub Issues**: [Create an issue](https://github.com/jiroaku/twitch-unfollow-pro/issues)
 - **Documentation**: Check this README and inline code comments
 
 ## 🔮 Roadmap
@@ -214,9 +214,9 @@ Need help? Here's how to get support:
 
 <div align="center">
 
-**Made with ❤️ by [ka1xu](https://github.com/ka1xu)**
+**Made with ❤️ by [jiroaku](https://github.com/jiroaku)**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ka1xu-black?style=for-the-badge&logo=github)](https://github.com/ka1xu)
+[![GitHub](https://img.shields.io/badge/GitHub-jiroaku-black?style=for-the-badge&logo=github)](https://github.com/jiroaku)
 
 *If you find this extension helpful, please consider giving it a ⭐ on GitHub!*
 
